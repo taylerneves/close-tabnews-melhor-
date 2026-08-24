@@ -1,3 +1,5 @@
 .next
 .node_modeules
 .next/
+node_modules/
+.next/
