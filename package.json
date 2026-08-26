@@ -5,13 +5,17 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-  
-  "author": "",
-  "license": "MIT",
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "next": "^13.1.6",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    }
+  },
   "dependencies": {
-    "next": "^13.1.6",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "next": "^15.5.24",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   }
-}
 }
