@@ -4,4 +4,4 @@ services:
     env_file:
      - ../.env.development
     ports:
-     - "5432:5432"docker compose up -ddocker compose up -d
+     - "5432:5432" 

@@ -2,7 +2,8 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "infra/*": ["infra/*"]
+      "infra/*": ["infra/*"],
+      "models/*": ["models/*"]
     }
   }
 }
