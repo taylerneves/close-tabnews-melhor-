@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "checkJs": false,
     "paths": {
-      "infra/*": ["infra/*"],
-      "models/*": ["models/*"]
+      "infra/*": ["./infra/*"],
+      "models/*": ["./models/*"]
     }
   }
 }
