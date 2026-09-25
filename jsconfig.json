@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "paths": {
+      "infra/*": ["./infra/*"],
+      "models/*": ["./models/*"]
+    }
+  }
+}
